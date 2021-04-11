@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @bscarpari
+- 👀 I’m interested in ReactJS, React Native, Angular, Vue and Node.JS...
+- 🌱 I’m currently learning Javascript, Jquery and Bootstrap...
+- 📫 Contact me at brunoomoraes686@gmail.com for any technology matters...
+
+<!---
+bscarpari/bscarpari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
