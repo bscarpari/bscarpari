@@ -1,5 +1,4 @@
 ## Hi, I'm Bruno Scarpari 
-<img alt="profile-stats" src="https://komarev.com/ghpvc/?username=bscarpari&style=flat-square">
 
 ### My stats:
 
