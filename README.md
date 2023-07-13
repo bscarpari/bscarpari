@@ -1,5 +1,3 @@
-<img align="right" src="https://uploaddeimagens.com.br/images/004/296/574/thumb/logo-whitoutbg.png?1673545064" height="130"/>
-
 ### Bruno Scarpari 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
